@@ -1,4 +1,5 @@
 // Viết chương trình nhập vào số giờ, phút, in ra số giây.
+#include <stdio.h>
 int main()
 {
 

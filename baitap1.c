@@ -1,4 +1,5 @@
 // Viết chương trình nhập vào bán kính hình tròn, in ra chu vi và diện tích.
+#include <stdio.h>
 int main()
 {
 
